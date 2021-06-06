@@ -1,0 +1,50 @@
+c:\users\i170056\documents\visual studio 2015\Projects\ProjetoPSI16AFJS\ProjetoPSI16AFJS\bin\Debug\ProjetoPSI16AFJS.exe.config
+c:\users\i170056\documents\visual studio 2015\Projects\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.csprojResolveAssemblyReference.cache
+c:\users\i170056\documents\visual studio 2015\Projects\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.MainFRM.resources
+c:\users\i170056\documents\visual studio 2015\Projects\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.LogIn.resources
+c:\users\i170056\documents\visual studio 2015\Projects\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.Properties.Resources.resources
+c:\users\i170056\documents\visual studio 2015\Projects\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.csproj.GenerateResource.Cache
+c:\users\i170056\documents\visual studio 2015\Projects\ProjetoPSI16AFJS\ProjetoPSI16AFJS\bin\Debug\ProjetoPSI16AFJS.exe
+c:\users\i170056\documents\visual studio 2015\Projects\ProjetoPSI16AFJS\ProjetoPSI16AFJS\bin\Debug\ProjetoPSI16AFJS.pdb
+c:\users\i170056\documents\visual studio 2015\Projects\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.exe
+c:\users\i170056\documents\visual studio 2015\Projects\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.pdb
+C:\Users\i170056\documents\visual studio 2015\Projects\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.FrmSplash.resources
+C:\Users\i170056\Desktop\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\bin\Debug\ProjetoPSI16AFJS.exe.config
+C:\Users\i170056\Desktop\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.exe
+C:\Users\i170056\Desktop\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.pdb
+C:\Users\i170056\Desktop\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\bin\Debug\ProjetoPSI16AFJS.exe
+C:\Users\i170056\Desktop\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\bin\Debug\ProjetoPSI16AFJS.pdb
+C:\Users\i170056\Desktop\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.csprojResolveAssemblyReference.cache
+C:\Users\i170056\Desktop\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.MainFRM.resources
+C:\Users\i170056\Desktop\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.LogIn.resources
+C:\Users\i170056\Desktop\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.Properties.Resources.resources
+C:\Users\i170056\Desktop\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.FrmSplash.resources
+C:\Users\i170056\Desktop\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.Sala.resources
+C:\Users\i170056\Desktop\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.csproj.GenerateResource.Cache
+C:\Users\i170056\Desktop\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.Inserir_Filme.resources
+C:\Users\i170056\Desktop\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.Bilhete.resources
+C:\Users\i170056\Desktop\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.Filme.resources
+C:\Users\i170056\Desktop\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.Novo_filme.resources
+D:\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\bin\Debug\ProjetoPSI16AFJS.exe.config
+D:\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.exe
+D:\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.pdb
+F:\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\bin\Debug\ProjetoPSI16AFJS.exe.config
+F:\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.exe
+F:\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.pdb
+D:\12ºAno\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\bin\Debug\ProjetoPSI16AFJS.exe.config
+D:\12ºAno\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\bin\Debug\ProjetoPSI16AFJS.exe
+D:\12ºAno\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\bin\Debug\ProjetoPSI16AFJS.pdb
+D:\12ºAno\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.csprojAssemblyReference.cache
+D:\12ºAno\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.Bilhete.resources
+D:\12ºAno\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.Filme.resources
+D:\12ºAno\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.Inserir_Filme.resources
+D:\12ºAno\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.MainFRM.resources
+D:\12ºAno\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.LogIn.resources
+D:\12ºAno\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.Novo_filme.resources
+D:\12ºAno\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.Properties.Resources.resources
+D:\12ºAno\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.FrmSplash.resources
+D:\12ºAno\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.Sala.resources
+D:\12ºAno\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.csproj.GenerateResource.cache
+D:\12ºAno\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.csproj.CoreCompileInputs.cache
+D:\12ºAno\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.exe
+D:\12ºAno\PSI16\ProjetoPSI16AFJS\ProjetoPSI16AFJS\obj\Debug\ProjetoPSI16AFJS.pdb
